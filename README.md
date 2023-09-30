@@ -1,1 +1,4 @@
-# hw3_js
+# Loftschool. JavaScript. Задачи
+## hw3_js
+
+## Основы JavaSript
